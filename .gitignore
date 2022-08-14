@@ -1,0 +1,7 @@
+.vscode/
+bot/
+bot_js/
+__pycache__/
+.env
+Genshin-auto-daily-login.log
+run.bat
