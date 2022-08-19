@@ -5,3 +5,4 @@ __pycache__/
 .env
 Genshin-auto-daily-login.log
 run.bat
+launch.VBS
