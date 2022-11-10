@@ -6,3 +6,6 @@ __pycache__/
 Genshin-auto-daily-login.log
 run.bat
 launch.VBS
+*.spec
+dist/
+build/
